@@ -1,0 +1,3 @@
+0 Stable
+1 Unstable
+2 Mixed
